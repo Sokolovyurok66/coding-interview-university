@@ -1,5 +1,5 @@
 # Universidade de Entrevista de Programação
-
+//lop
 > Originalmente eu criei isso como uma pequena lista to-do (a fazer) de tópicos de estudo para se tornar um engenheiro de software, 
 > mas isso cresceu para este imenso acervo que você consulta hoje. Após passar por todo esse plano de estudo, [Eu fui contratado 
 > como Engenheiro de Desenvolvimento de Software na Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)! 
